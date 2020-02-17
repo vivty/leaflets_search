@@ -1,6 +1,6 @@
 # leaflets_search
 Search box on leaflets map
-
+前提要引入leaflets.js
 ### 第一步： 引入
      <script src="./leaflet.customsearchbox.min.js"></script>
      <link href="./searchbox.min.css" rel="stylesheet" /> 
